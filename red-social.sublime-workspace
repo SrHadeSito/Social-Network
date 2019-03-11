@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"anchuraToSlider"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"inlie",
+				"inline-block\tdisplay"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"content",
+				"align-content\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"compone",
+				"components"
+			],
+			[
+				"a",
+				"application"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"Proje",
+				"ProjectService"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"PRoje",
+				"ProjectService"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"project",
+				"projectUpdated"
+			],
+			[
+				"projec",
+				"projectUpdated"
+			],
+			[
+				"mul",
+				"multipartMiddleware"
+			],
+			[
+				"porjec",
+				"projectId"
+			],
+			[
+				"findy",
+				"findByIdAndUpdate"
+			],
+			[
+				"pro",
+				"projectStored"
+			],
+			[
+				"Pro",
+				"ProjectSchema"
+			],
+			[
+				"Http",
+				"HttpHeaders"
+			],
+			[
+				"Pipe",
+				"PipeTransform"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"Htt",
+				"HttpClient"
+			],
+			[
+				"zapatill",
+				"ZapatillaService"
+			],
+			[
+				"Zapa",
+				"ZapatillaService"
+			],
+			[
+				"_r",
+				"_router"
+			],
+			[
+				"_ro",
+				"_route"
+			],
+			[
+				"Router",
+				"RouterModule"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"get",
+				"getTimeLine\tmethod"
+			],
+			[
+				"set",
+				"setTimeLine\tmethod"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"jqu",
+				"jquery-ui"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"profe",
+				"profesor_string"
+			],
+			[
+				"pr",
+				"profesor_string"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"suma",
+				"sumaPorDos"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"type",
+				"list-style-type\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/package.json",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/index.js",
+			"settings":
+			{
+				"buffer_size": 315,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hades/Documents/Curso JavaScript/09b_red-social",
+		"/C/Users/hades/Documents/Curso JavaScript/09b_red-social/api"
+	],
+	"file_history":
+	[
+		"/C/Users/hades/Documents/Curso JavaScript/06_backend/index.js",
+		"/C/Users/hades/Documents/Curso JavaScript/09b_red-social/api/package.json",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/resaltado.directive.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/contact/contact.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/contact/contact.component.ts",
+		"/C/cygwin64/home/hades/.bash_profile",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/slider/slider.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/slider/slider.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/angular.json",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/app.module.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/package.json",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/services/project.service.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/create/create.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/edit/edit.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/app.routing.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/06_backend/routes/project.js",
+		"/C/Users/hades/Documents/Curso JavaScript/06_backend/controllers/project.js",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/services/upload.service.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/services/global.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/models/project.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/assets/css/styles.css",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/app.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/about/about.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/07b_proyecto-angular/src/app/components/about/about.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/07a_Enunciado proyecto-angular/assets/css/styles.css",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/app.module.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/app.js",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/package.json",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/index.js",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/routes/project.js",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/controllers/project.js",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/models/project.js",
+		"/C/Program Files/MongoDB/Server/4.0/bin/mongod.cfg",
+		"/C/Users/hades/Documents/Curso JavaScript/backend/calculadora.js",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/contacto/contacto.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/contacto/contacto.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/models/contacto.usuario.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/pipes/calculadora.pipe.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/app.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/externo/externo.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/externo/externo.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/services/peticiones.service.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/app.routing.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/services/zapatilla.service.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/home/home.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/home/home.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/home/home.component.spec.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/assets/styles.css",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/cursos/cursos.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/cursos/cursos.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/index.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/polyfills.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/karma.conf.js",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/angular.json",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/videojuego/videojuego.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/app.component.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/videojuego/videojuego.component.html",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/app/cursos/cursos.component.css",
+		"/C/Users/hades/Documents/Curso JavaScript/poo-y-typescript/index.html",
+		"/C/Users/hades/Documents/Curso JavaScript/poo-y-typescript/js/programa.ts",
+		"/C/Users/hades/Documents/Curso JavaScript/aprendiendo-angular/src/styles.css",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/E/JavaScript/poo-y-typescript/js/programa.js",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/User/TypeScriptReact.sublime-settings",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/hades/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/JavaScript/poo-y-typescript/js/camiseta.ts",
+		"/E/JavaScript/poo-y-typescript/js/coche.js",
+		"/E/JavaScript/poo-y-typescript/js/coche.ts",
+		"/E/JavaScript/poo-y-typescript/js/camiseta.js",
+		"/E/JavaScript/poo-y-typescript/js/main.ts",
+		"/E/JavaScript/poo-y-typescript/js/main.js",
+		"/E/JavaScript/poo-y-typescript/js/04_funciones.js",
+		"/E/JavaScript/poo-y-typescript/js/04_funciones.ts",
+		"/E/JavaScript/poo-y-typescript/js/03_tipos-de-datos.ts",
+		"/E/JavaScript/poo-y-typescript/js/02_hola-mundo.js",
+		"/E/JavaScript/poo-y-typescript/js/03_tipos-de-datos.js",
+		"/E/JavaScript/poo-y-typescript/js/02_hola-mundo.ts",
+		"/E/JavaScript/poo-y-typescript/js/01_clase-json.js",
+		"/E/JavaScript/Proyecto - JavaScript/index.html",
+		"/E/JavaScript/Proyecto - JavaScript/contact.html",
+		"/E/JavaScript/Proyecto - JavaScript/css/main.css",
+		"/E/JavaScript/Proyecto - JavaScript/js/basic.js",
+		"/E/JavaScript/Proyecto - JavaScript/reloj.html",
+		"/E/JavaScript/Proyecto - JavaScript/about.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/interface.html",
+		"/E/JavaScript/Proyecto - JavaScript/css/blue.css",
+		"/E/JavaScript/Proyecto - JavaScript/css/red.css",
+		"/E/JavaScript/Proyecto - JavaScript/css/green.css",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/06_interface.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/ajax.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/05_ajax.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/efectos.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/04_efectos.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/textos.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/03_textos.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/eventos.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/02_eventos.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/01_selectores.js",
+		"/E/JavaScript/Ejercicio 2 - jQuery/index.html",
+		"/E/JavaScript/Ejercicio 2 - jQuery/js/jquery-3.3.1.min.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/37_try_catch.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/36_fetch.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/35_ejercicio_localstorage.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/pagina.html",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/datos_externo.html",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/34_local_storage.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/33_json.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/index.html",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/30_eventos.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/formulario.html",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/32_ejercicio_dom.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/31_timers.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/32_ejercicio_dom",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/28_dom.js",
+		"/E/JavaScript/Ejercicio 1 - Hola Mundo/javascript/29_bom.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "red-social.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
